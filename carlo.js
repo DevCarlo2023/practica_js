@@ -1,1 +1,5 @@
-// estamos agrenado a la rama carlo este archivo.
+// git add .
+// git commit -m "Agregando carlo.js"
+// git merge carlo 
+// git push --set-upstream origin carlo
+// Ahora ya esta subido al repositorio en la nube
